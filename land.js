@@ -21,3 +21,9 @@ $.fn.typewriter = function() {
    c.html(b.substring(d, a++) + (a & 1 ? "_" : ""));
    a >= b.length || setTimeout(e, 70 + 100 *
      Math.random())
+   };
+e()
+});
+return this
+};
+$(".terminal").typewriter();
