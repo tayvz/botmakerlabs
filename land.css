@@ -28,3 +28,12 @@ border: none;
 outline: none;
 color: inherit;
 }
+.dollar:before {
+  content: '$';
+  color: #52a563;
+}
+
+.home {
+  color: #e28d47;
+  padding-bottom: 3px;
+}
