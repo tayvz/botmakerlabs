@@ -37,3 +37,8 @@ color: inherit;
   color: #e28d47;
   padding-bottom: 3px;
 }
+a {
+  font: 12px "Monaco", Inconsolata, monospace;
+  text-decoration: underline;
+  color: #f8f8f8;
+}
