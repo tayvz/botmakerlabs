@@ -9,3 +9,5 @@ $.fn.typewriter = function() {
             if ("<" == b.substring(a, a + 1)) {
               var f = new RegExp(/<span class="instant"/),
           g = new RegExp(/<span
+            class="clear"/);
+        if (b.substring(a, b.length).match(f)) a += b.substring(a,
