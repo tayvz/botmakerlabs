@@ -11,3 +11,5 @@ $.fn.typewriter = function() {
           g = new RegExp(/<span
             class="clear"/);
         if (b.substring(a, b.length).match(f)) a += b.substring(a,
+          b.length).indexOf("</span>") + 7;
+                  else if (b.substring(a, b.length).match(g)) d = a, a +=
