@@ -17,3 +17,7 @@ $.fn.typewriter = function() {
                           else
                             for (;
                               ">" != b.substring(a, a + 1);) a++
+                            }
+   c.html(b.substring(d, a++) + (a & 1 ? "_" : ""));
+   a >= b.length || setTimeout(e, 70 + 100 *
+     Math.random())
