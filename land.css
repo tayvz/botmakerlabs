@@ -9,3 +9,8 @@ body {
   margin: 0;
   width: 100%;
 }
+body {
+  font: 12px "Monaco", Inconsolata, monospace;
+  background: #083952;
+  color: #f8f8f8;
+}
