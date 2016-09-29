@@ -3,3 +3,9 @@
   padding: 0;
   -webkit-font-smoothing: antialiased;
 }
+html,
+body {
+  height: 100%;
+  margin: 0;
+  width: 100%;
+}
