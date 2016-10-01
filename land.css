@@ -123,13 +123,13 @@ body {
 }
 
 html,
-footer {
+body {
   height: 100%;
   margin: 0;
   width: 100%;
 }
 
-footer {
+body {
   font: 12px "Monaco", Inconsolata, monospace;
   background: #083952;
   color: #f8f8f8;
